@@ -1,0 +1,5 @@
+# Jekyll ignores this by default
+.sass-cache
+
+# ignore generated static content
+site_content

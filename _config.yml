@@ -1,0 +1,11 @@
+# Site settings
+title: CI and CD with GitHub
+description: Need a new description for the document head meta and for the feed.xml site description.
+email: patrickbm@github.com
+github_username:  patrickbm
+baseurl:
+url: https://patrickbm-velocity.herokuapp.com
+destination: site_content
+exclude: [ 'vendor' ]
+
+markdown: kramdown
