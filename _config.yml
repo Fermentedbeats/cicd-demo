@@ -1,10 +1,10 @@
 # Site settings
 title: CI and CD with GitHub
-description: Need a new description for the document head meta and for the feed.xml site description.
-email: patrickbm@github.com
-github_username:  patrickbm
+description: Surely something useful could be here?
+email: patrickmckenna@github.com
+github_username:  patrickmckenna
 baseurl:
-url: https://patrickbm-velocity.herokuapp.com
+url: https://cicd-demo.herokuapp.com
 destination: site_content
 exclude: [ 'vendor' ]
 
