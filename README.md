@@ -1,3 +1,5 @@
+[![Build Status](https://travis-ci.org/patrickmckenna/cicd-demo.svg)](https://travis-ci.org/patrickmckenna/cicd-demo)
+
 ### About
 A simple, [Jekyll](http://jekyllrb.com)-powered, demo [site](https://cicd-demo.herokuapp.com). It uses [Travis CI](https://travis-ci.org) and [Heroku](https://devcenter.heroku.com/articles/github-integration). 
 
