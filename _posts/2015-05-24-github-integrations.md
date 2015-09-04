@@ -4,4 +4,4 @@ title:  "Integrating 3rd-party tools with GitHub"
 author: Patrick
 date:   2015-05-01
 ---
-Check out [this page](https://github.com/integrations) for an overview.
+GitHub integrates with nearly every major dev tool out there. [Here's an overview](https://github.com/integrations).
