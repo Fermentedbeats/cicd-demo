@@ -4,6 +4,4 @@ title: About
 permalink: /about/
 ---
 
-An sample, static website for demonstrating how GitHub underpins a CD workflow. 
-
-(Overheard somewhere: "static is the new black.")
+An demo blog for showing how to integrate GitHub with CI and CD tools.
