@@ -1,17 +1,12 @@
 ### About
-A simple, [Jekyll](http://jekyllrb.com)-powered, demo [site](https://cicd-demo.herokuapp.com). It uses [Travis CI](https://travis-ci.org) and [Heroku](https://devcenter.heroku.com/articles/github-integration). 
+A [Jekyll](http://jekyllrb.com)-powered demo [blog](https://githubtraining-cicd-demo.herokuapp.com). 
 
+#### A Note on Tooling
+This project uses [Travis CI](https://travis-ci.org) for automated testing and deploys to [Heroku](https://devcenter.heroku.com/articles/github-integration). We use these tools because they're popular, free, and integrate well with GitHub. Most importantly, they let us demonstrate and practice CI/CD while abstracting away platform-specific issues. 
 
-### Deploy Locally
-Assuming you have a *NIX box with Ruby installed, run:
+That said, there are many other great tools out there offering similar features. We recommend you decide for yourself which tools are most appropriate for your own projects.
 
-```bash
-script/cibuild
-script/serve
-```
-
-You can view the output at `http://localhost:4000`.
-
+Here's [an overview of 3rd party tools that integrate with GitHub](https://github.com/integrations). 
 
 ### Contributing
 Please see [CONTRIBUTING.md](CONTRIBUTING.md).
