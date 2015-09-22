@@ -8,5 +8,10 @@ That said, there are many other great tools out there offering similar features.
 
 Here's [an overview of 3rd party tools that integrate with GitHub](https://github.com/integrations). 
 
+### Recommended Reading
+- [*Continuous Delivery* by Humble, Farley](http://www.informit.com/store/continuous-delivery-reliable-software-releases-through-9780321770424)
+- [*How GitHub does branch deploys*](http://githubengineering.com/deploying-branches-to-github-com/)
+- [GitHub API documentation](https://developer.github.com/v3/)
+
 ### Contributing
 Please see [CONTRIBUTING.md](CONTRIBUTING.md).
