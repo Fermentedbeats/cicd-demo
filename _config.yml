@@ -4,7 +4,7 @@ description: A demo blog
 email: fermentedbeats@github.com
 github_username:  fermentedbeats
 baseurl:
-url: https://githubtraining-cicd-demo.herokuapp.comBROKEN
+url: https://githubtraining-cicd-demo.herokuapp.com
 destination: site_content
 exclude: [ 'vendor' ]
 
