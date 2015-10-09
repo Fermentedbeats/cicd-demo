@@ -1,7 +1,7 @@
 # Site settings
 title: CI and CD with GitHub
 description: A demo blog
-email: fermentedbeats@github.com
+email: fermentedbeats@github.comBROKEN
 github_username:  fermentedbeats
 baseurl:
 url: https://githubtraining-cicd-demo.herokuapp.com
